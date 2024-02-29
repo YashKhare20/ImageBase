@@ -6,8 +6,8 @@ An user-friendly framework designed to streamline the image annotation process. 
 ```
 1. Pull the code
 2. Create a virtual environment with the `requirements.txt` file.
-3. run command "pip install -r requirements.txt"
-4. run command "python manage.py runserver"
+3. Run command "pip install -r requirements.txt"
+4. Run command "python manage.py runserver"
 
 ```
 
@@ -67,17 +67,15 @@ and their label.
 * Ajax
 
 ## Project Workflow - Automatic Annotation
-<img src="images/LLD-Auto.png" width="800" height="280">
+<img src="images/LLD-Auto.png" width="800" height="400">
 
 ## Project Workflow - Manual Annotation
-<img src="images/LLD-Manual.png" width="800" height="280">
+<img src="images/LLD-Manual.png" width="800" height="400">
 
 ## Model Architecture
-<img src="images/Model-Architecture.png" width="800" height="280">
+<img src="images/Model-Architecture.png" width="800" height="400">
 
 ## Featured Notebook to Train Custom Model
 * [Yolov4-tiny](./Yolov4tiny_CustomModel.ipynb)
 
-
-# Demo of web-extension
 
