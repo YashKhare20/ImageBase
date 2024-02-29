@@ -76,6 +76,6 @@ and their label.
 <img src="images/Model-Architecture.png" width="800" height="400">
 
 ## Featured Notebook to Train Custom Model
-* [Yolov4-tiny](./Yolov4tiny_CustomModel.ipynb)
+* [Yolov4-tiny](./Yolov4tiny_CustomModelTraining.ipynb)
 
 
